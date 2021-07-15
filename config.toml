@@ -1,4 +1,4 @@
-baseURL = "https://divineugorji.tech/"
+baseURL = "https://my-portfolio-site-pi.vercel.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
