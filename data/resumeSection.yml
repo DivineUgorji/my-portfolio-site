@@ -1,0 +1,40 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience
+  
+
+  
+
+
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Bachelor in Mechatronics Engineering (B.Eng)
+
+      My time in school were mostly spent outside the class room and my activies mostly consists of extra curricular activities; coding and networking.
+      
+       
+      Active member of Google Developers Group, Owerri.
+      
+      Active member Developer Students Club, Owerri.
+    time: 2016-2021
+  
+  
+experience:
+  - content: >
+      #### Hotels.ng
+
+      Built a number of applications with a team of android developers working in weekly sprints.
+      
+      
+      
+      Successfully implemented unit tests to our project codebase which helped reduce the app crashes by 30%
+      
+      
+    time: Jan 2021-Present

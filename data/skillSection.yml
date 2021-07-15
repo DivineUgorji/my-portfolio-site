@@ -1,0 +1,17 @@
+---
+enable: false
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Java
+   
+  - title: Kotlin
+  
+  - title: Javascript
+    percent: 85

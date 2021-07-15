@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What people are saying
+testimonial:
+  - name: Amaka Miracle | Web Developer
+    comment: Divne is a fantastic human. I enjoy his perspectives during project brainstorming. His approach to work is admirable. He went above and beyond to help us lauch our product. Would definitely hire him again.
+    time: Dec. 20, 2020
+    star: 5
+  - name: Peters Victor | UI/UX Designer @Sweech
+    comment: Divine is really good at what he does. I have worked with him on different projects for different clients and he never disappoints on his deliverables.
+    time: Jan 16, 2020
+    star: 4
+  - name: Justine Levith
+    comment: I don't know what we could have done with our mobile app without him. He carefully evaluated the user experience flow of our app and helped us with issues causing the frequent app crashes. Now our user retainship has continued to grow with good rating. Would hire again and again. He is reliable. 
+    time: Jan 08, 2021
+    star: 5

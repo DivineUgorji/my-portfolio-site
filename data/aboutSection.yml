@@ -1,0 +1,25 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  I would love to help you with your Android mobile app projects. Would you let me?
+content: >
+  ### Let me help you build mobile app experiences that your customers would be grateful for.
+
+  My name is Divine Ugorji, and I am a school taught Mechatronics Engineer and a community taught Android Engineer.
+  
+  
+  I love creating fully featured and well performing Android apps targeted at solving problems while delivering seamless user experience.
+  
+  
+  I am passionate about solving complex problems through data-driven processes that translate business objectives into solutions, with empathy for the user.
+  
+  
+  I am currently based in Nigeria, working as a freelancer with clients from around the world.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/andy.jpg
