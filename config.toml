@@ -1,4 +1,4 @@
-baseURL = "https://vercel.com/codesuperstarr/my-portfolio-site"
+baseURL = "https://divineugorji.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
