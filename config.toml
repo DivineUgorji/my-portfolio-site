@@ -1,4 +1,4 @@
-baseURL = "https://my-portfolio-site-pi.vercel.app/"
+baseURL = "https://divineugorji.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
