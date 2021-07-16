@@ -19,7 +19,7 @@ content: >
   
   I am currently based in Nigeria, working as a freelancer with clients from around the world.
 button1Name: Hire me
-# button2Name: Download CV
+button2Name: Download CV
 button1Target: contact
-button2Target: contact
+button2Target: https://docs.google.com/document/d/1EA_6qm9y9fcjeZQeYVvvBq9JTCMEMSpdTGsb6LBZX2A/edit?usp=sharing
 image: images/about/andy.jpg
